@@ -1,0 +1,39 @@
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.exe.config
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.exe
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.pdb
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.csprojResolveAssemblyReference.cache
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\App.g.cs
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar_MarkupCompile.cache
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar_MarkupCompile.lref
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\MainWindow.baml
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.g.resources
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.Properties.Resources.resources
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.csproj.GenerateResource.Cache
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.exe
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.pdb
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Day.g.cs
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Day.baml
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Event.g.cs
+C:\Users\Alwaysdeadfred\Documents\Visual Studio 2015\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Event.baml
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.exe.config
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.exe
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\bin\Debug\KinectCalendar.pdb
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.csprojResolveAssemblyReference.cache
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Day.g.cs
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Event.g.cs
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\App.g.cs
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar_MarkupCompile.cache
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar_MarkupCompile.lref
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Day.baml
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\Event.baml
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\MainWindow.baml
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.g.resources
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.Properties.Resources.resources
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.csproj.GenerateResource.Cache
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.exe
+C:\Users\shayn\Projects\PhoneCalendar\KinectCalendar\obj\Debug\KinectCalendar.pdb

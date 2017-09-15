@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="KinectCalendar.Event"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KinectCalendar"
+             mc:Ignorable="d" 
+             d:DesignHeight="90" d:DesignWidth="1800">
+    <Canvas Name="Container" Background="Gray" Height="90" Width="1800">
+        <TextBlock Name="TimeLabel" Text="Time" FontSize="50" FontWeight="Bold" Canvas.Left="10" Canvas.Top="10"></TextBlock>
+        <TextBlock Name="DescriptionLabel" Text="Description" FontSize="50" Canvas.Left="355" Canvas.Top="10" Width="1435"></TextBlock>
+    </Canvas>
+</UserControl>
